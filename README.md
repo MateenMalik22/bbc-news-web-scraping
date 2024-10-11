@@ -68,7 +68,7 @@ bbc-news-web-scraping/
 ├── README.md
 ├── requirements.txt
 ├── bbc_news.ipynb
-├── bbc_news.csv
+├── bbc_news_world.csv
 └── images/
     ├── top_5_categories_chart.png
 ```
