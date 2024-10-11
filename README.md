@@ -81,4 +81,4 @@ bbc-news-web-scraping/
   - **top_5_categories_chart.png**: A bar chart showing the frequency of the top 5 categories in the data.
 - **requirements.txt**: A list of required libraries to run the project.
 - **presentation/**: Contains supporting presentation materials.
-bbc_news_presentation.pptx: The PowerPoint presentation that provides an overview of the project, including web scraping process, data analysis, and insights.
+  - **bbc_news_presentation.pptx**: The PowerPoint presentation that provides an overview of the project, including web scraping process, data analysis, and insights.
