@@ -1,7 +1,3 @@
-
-
----
-
 # **BBC News Web Scraping Project**
 
 ## **Project Overview**
