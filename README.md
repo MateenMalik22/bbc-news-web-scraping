@@ -69,8 +69,10 @@ bbc-news-web-scraping/
 ├── requirements.txt
 ├── bbc_news.ipynb
 ├── bbc_news_world.csv
-└── images/
-    ├── top_5_categories_chart.png
+├── images/
+│   ├── top_5_categories_chart.png
+└── presentation/
+    ├── bbc_news_presentation.pptx
 ```
 
 - **bbc_news.ipynb**: The Jupyter notebook containing the code for web scraping, data cleaning, and analysis.
@@ -78,3 +80,5 @@ bbc-news-web-scraping/
 - **images/**: Contains output images and visualizations.
   - **top_5_categories_chart.png**: A bar chart showing the frequency of the top 5 categories in the data.
 - **requirements.txt**: A list of required libraries to run the project.
+- **presentation/**: Contains supporting presentation materials.
+bbc_news_presentation.pptx: The PowerPoint presentation that provides an overview of the project, including web scraping process, data analysis, and insights.
