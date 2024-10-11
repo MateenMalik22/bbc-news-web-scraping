@@ -1,0 +1,12 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.1
+lxml==4.9.3
+matplotlib==3.8.0
+
+Explanation:
+requests: Used to send HTTP requests to retrieve HTML content from BBC News.
+beautifulsoup4: For parsing the HTML content to extract relevant data.
+pandas: Helps organize scraped data into a DataFrame and export it to CSV.
+lxml: Used as the HTML parser for BeautifulSoup.
+matplotlib: For creating visualizations such as bar charts for analyzing the top news categories.
