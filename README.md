@@ -1,4 +1,4 @@
-Certainly! Here’s the updated **README.md** content with **Setup Instructions** and **Contact** sections removed:
+
 
 ---
 
