@@ -1,4 +1,11 @@
 # **BBC News Web Scraping Project**
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Requests](https://img.shields.io/badge/-Requests-FF4F00?logo=requests&logoColor=white)](https://requests.readthedocs.io/)
+[![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-FFD43B?logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![lxml](https://img.shields.io/badge/-lxml-1E7F5B?logo=lxml&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-008CFF?logo=matplotlib&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 
 ## **Project Overview**
 This project involves web scraping news articles from the BBC News website to gather **headlines**, **categories**, **timestamps**, and **author information**. The objective is to collect, organize, and analyze this data for insights, and store it in a structured **CSV** format for further use.
